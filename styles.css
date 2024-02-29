@@ -257,7 +257,6 @@ h2 {
         grid-template-columns: repeat(3, 350px);
         gap: 30px;
         justify-content: center;
-
     }
 
     .app__box {
